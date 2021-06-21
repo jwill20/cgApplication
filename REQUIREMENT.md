@@ -14,10 +14,7 @@ for having names that follow best practices.
 bots.json contains the initial data for the bots. You can copy this into your code, but you will get extra credit for reading it in when 
 your application starts.
 
-Push your code to the repo that this readme is in - https://github.com/jwill20/CGApp
-
-## What if I have questions?
-Enter any questions that you have into the file questions.txt and push it
+Clone this repo - https://github.com/jwill20/cgApplication - and create a new github repo for your code.  Send us a link to that repo when you are done.
 
 ## Where is the bot data?
 bots.json contains the initial data for the bots
@@ -26,7 +23,7 @@ bots.json contains the initial data for the bots
 You can use Postman or curl or any other tool that you are familiar with to exercise your endpoints
 
 ## Where is the repo?
-https://github.com/jwill20/CGApp
+https://github.com/jwill20/cgApplication
 
 ## How can I get extra credit?
 - Create Mocha test cases for your API
