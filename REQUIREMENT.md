@@ -14,7 +14,7 @@ for having names that follow best practices.
 bots.json contains the initial data for the bots. You can copy this into your code, but you will get extra credit for reading it in when 
 your application starts.
 
-Clone this repo - https://github.com/jwill20/cgApplication - and create a new github repo for your code.  Send us a link to that repo when you are done.
+Clone this repo - https://github.com/jwill20/cgApplication - and create a new github repo for your code.  Send us a link to that repo as soon as you create it.  You will have 24 hours to complete the exercise.
 
 ## Where is the bot data?
 bots.json contains the initial data for the bots
